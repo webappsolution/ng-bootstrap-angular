@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
+It is the companion code to the article located [here](http://www.webappsolution.com/blog/2017/4/4/adding-bootstrap-to-a-simple-app).
+Full details can be found in the article.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
